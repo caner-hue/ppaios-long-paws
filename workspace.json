@@ -1,12 +1,23 @@
 {
   "name": "PPAIOS — Long Paws",
-  "description": "Long Paws brand workspace. Tier: sprint. Pet brand. Sprint focus: TTS (text-to-speech?) — confirm with Caner. long-paws-growth-sprint.html + long-paws/ folder in Drive.",
+  "description": "Long Paws brand workspace. Tier: sprint (full 17-agent roster — same skill surface as KIND2). Pet brand. Sprint focus: TTS (text-to-speech?) — confirm with Caner. long-paws-growth-sprint.html + long-paws/ folder in Drive.",
   "agents": [
     "director",
     "analytics",
+    "customer-service",
     "email-sms",
+    "site-cro",
     "content-seo",
     "creative",
-    "social-media"
+    "social-media",
+    "paid-ads",
+    "reseller-outreach",
+    "creator-manager",
+    "amazon-ppc",
+    "amazon-catalogue",
+    "finance-reporter",
+    "logistics-inventory",
+    "reviews-social-proof",
+    "retention-curator"
   ]
 }
